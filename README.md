@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lads-slu.
 - LADS is the Laboratory for intelligent agricultural decision support systems at the Swedish University of Agricultural Sciences (SLU).
-- Here we post R code for the core functionality decision support systems for precision agriculture etc.
+- Here we post R code for the core functionality in decision support systems for precision agriculture etc.
 - Read more at www.slu.se/LADS
 
 <!---
